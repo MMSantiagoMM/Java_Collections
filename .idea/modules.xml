@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionsProject.iml" filepath="$PROJECT_DIR$/CollectionsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee_Map/Employee_Map.iml" filepath="$PROJECT_DIR$/Employee_Map/Employee_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises_Set/Exercises_Set.iml" filepath="$PROJECT_DIR$/Exercises_Set/Exercises_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library_ArrayList/Library_ArrayList.iml" filepath="$PROJECT_DIR$/Library_ArrayList/Library_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movies2_ArrayList/Movies2_ArrayList.iml" filepath="$PROJECT_DIR$/Movies2_ArrayList/Movies2_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movies_ArrayList/Movies_ArrayList.iml" filepath="$PROJECT_DIR$/Movies_ArrayList/Movies_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product_Map-challenge/Product_Map-challenge.iml" filepath="$PROJECT_DIR$/Product_Map-challenge/Product_Map-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Students_Map/Students_Map.iml" filepath="$PROJECT_DIR$/Students_Map/Students_Map.iml" />
+    </modules>
+  </component>
+</project>
